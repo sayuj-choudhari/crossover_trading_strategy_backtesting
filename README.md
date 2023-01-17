@@ -17,4 +17,4 @@ strategy aims to eliminate the minor losses created by faulty buy signals, with 
 
 ## Day-by-day crossover trading plot for Apple Inc. and Ethereum
 
-![plot](./General_financial_market_PCA_plot.png)
+![plot](./day_crossover_trading_plots.png)
